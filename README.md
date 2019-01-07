@@ -8,6 +8,7 @@ Pizzasorte, Pizzabeilage wird je nach Wunsch gewählt.
 
 Das Projekt kann mit Eclipse-Umgebung gestartet werden.
 Am besten sollte man die neueste Eclipseversion installieren.
+-Anschließend das Programm öffnen und debbugen.
 
 
 
